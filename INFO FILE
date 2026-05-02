@@ -1,0 +1,24 @@
+Project Title: Hospital Management System (SQL)
+
+Description:
+This project involves the design and implementation of a relational database system to manage hospital operations. It models real-world entities such as hospitals, doctors, patients, appointments, departments, and prescriptions.
+
+Key Features:
+
+* Fully normalized relational schema
+* Use of primary and foreign keys for integrity
+* Complex SQL queries including joins, aggregations, and window functions
+* Realistic dataset for simulation
+
+Technical Highlights:
+
+* Implementation of multi-table relationships
+* Analytical queries using DENSE_RANK and subqueries
+* Use of CASE statements for classification
+* Time-based analysis using date functions
+
+Outcome:
+The system enables efficient storage, retrieval, and analysis of hospital data. It demonstrates strong SQL proficiency and problem-solving ability.
+
+Conclusion:
+This project showcases practical database design skills and advanced SQL techniques applicable in real-world data systems and analytics roles.
